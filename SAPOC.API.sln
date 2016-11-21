@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Contract", "SAPOC.Contract\SAPOC.Contract.csproj", "{5837130E-FA80-4F2E-BD0F-88ECF7E24ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Repository.Common", "SAPOC.Repository.Common\SAPOC.Repository.Common.csproj", "{92AFBA9D-8E05-40F8-BBA9-AE5F08DE5E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Repository", "SAPOC.Repository\SAPOC.Repository.csproj", "{577E3BFE-22D3-4F80-B551-DC958D62D685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Product.Provider", "SAPOC.Product.Provider\SAPOC.Product.Provider.csproj", "{867DF97E-FB27-4138-89FF-8364D275CC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Price.Provider", "SAPOC.Price.Provider\SAPOC.Price.Provider.csproj", "{58209FD8-FE05-4307-83B2-72672E467547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Product.Service", "SAPOC.Product.Service\SAPOC.Product.Service.csproj", "{E2EF7734-9528-4419-8B80-08CA7DCA8449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Price.Service", "SAPOC.Price.Service\SAPOC.Price.Service.csproj", "{12D38AFC-34F0-459A-85B7-CBCE42D9F70A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{C4F339C0-4E11-48AB-B21B-46A5F542F19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Repository.Test", "SAPOC.Repository.Test\SAPOC.Repository.Test.csproj", "{F6171040-0E63-479D-A7E6-2562FE5890F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Price.Provider.Test", "SAPOC.Price.Provider.Test\SAPOC.Price.Provider.Test.csproj", "{DC150CAE-C1E3-4532-AA8D-3DFEFD1AFD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Product.Provider.Test", "SAPOC.Product.Provider.Test\SAPOC.Product.Provider.Test.csproj", "{15DD8155-BB8F-4FE5-AD38-483C15141B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.UI", "SAPOC.UI\SAPOC.UI.csproj", "{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5837130E-FA80-4F2E-BD0F-88ECF7E24ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5837130E-FA80-4F2E-BD0F-88ECF7E24ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5837130E-FA80-4F2E-BD0F-88ECF7E24ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5837130E-FA80-4F2E-BD0F-88ECF7E24ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AFBA9D-8E05-40F8-BBA9-AE5F08DE5E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AFBA9D-8E05-40F8-BBA9-AE5F08DE5E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AFBA9D-8E05-40F8-BBA9-AE5F08DE5E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AFBA9D-8E05-40F8-BBA9-AE5F08DE5E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577E3BFE-22D3-4F80-B551-DC958D62D685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577E3BFE-22D3-4F80-B551-DC958D62D685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577E3BFE-22D3-4F80-B551-DC958D62D685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577E3BFE-22D3-4F80-B551-DC958D62D685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867DF97E-FB27-4138-89FF-8364D275CC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867DF97E-FB27-4138-89FF-8364D275CC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867DF97E-FB27-4138-89FF-8364D275CC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867DF97E-FB27-4138-89FF-8364D275CC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58209FD8-FE05-4307-83B2-72672E467547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58209FD8-FE05-4307-83B2-72672E467547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58209FD8-FE05-4307-83B2-72672E467547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58209FD8-FE05-4307-83B2-72672E467547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EF7734-9528-4419-8B80-08CA7DCA8449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EF7734-9528-4419-8B80-08CA7DCA8449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EF7734-9528-4419-8B80-08CA7DCA8449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EF7734-9528-4419-8B80-08CA7DCA8449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D38AFC-34F0-459A-85B7-CBCE42D9F70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D38AFC-34F0-459A-85B7-CBCE42D9F70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D38AFC-34F0-459A-85B7-CBCE42D9F70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D38AFC-34F0-459A-85B7-CBCE42D9F70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6171040-0E63-479D-A7E6-2562FE5890F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6171040-0E63-479D-A7E6-2562FE5890F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6171040-0E63-479D-A7E6-2562FE5890F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6171040-0E63-479D-A7E6-2562FE5890F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC150CAE-C1E3-4532-AA8D-3DFEFD1AFD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC150CAE-C1E3-4532-AA8D-3DFEFD1AFD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC150CAE-C1E3-4532-AA8D-3DFEFD1AFD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC150CAE-C1E3-4532-AA8D-3DFEFD1AFD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DD8155-BB8F-4FE5-AD38-483C15141B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DD8155-BB8F-4FE5-AD38-483C15141B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DD8155-BB8F-4FE5-AD38-483C15141B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DD8155-BB8F-4FE5-AD38-483C15141B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6171040-0E63-479D-A7E6-2562FE5890F0} = {C4F339C0-4E11-48AB-B21B-46A5F542F19C}
+		{DC150CAE-C1E3-4532-AA8D-3DFEFD1AFD53} = {C4F339C0-4E11-48AB-B21B-46A5F542F19C}
+		{15DD8155-BB8F-4FE5-AD38-483C15141B11} = {C4F339C0-4E11-48AB-B21B-46A5F542F19C}
+	EndGlobalSection
+EndGlobal

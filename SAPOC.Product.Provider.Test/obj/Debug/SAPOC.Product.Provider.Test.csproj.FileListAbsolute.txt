@@ -1,0 +1,9 @@
+C:\Sudheshna\SAPOC.API\SAPOC.Product.Provider.Test\bin\Debug\SAPOC.Product.Provider.Test.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Product.Provider.Test\bin\Debug\SAPOC.Product.Provider.Test.pdb
+C:\Sudheshna\SAPOC.API\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Product.Provider.Test\bin\Debug\SAPOC.Product.Provider.Test.dll
+E:\SA_POC\SAPOC.API\SAPOC.Product.Provider.Test\bin\Debug\SAPOC.Product.Provider.Test.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.dll
+E:\SA_POC\SAPOC.API\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.csprojResolveAssemblyReference.cache

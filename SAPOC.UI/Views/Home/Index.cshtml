@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@section scripts {
+    <script src="~/Scripts/angular.js"></script>    
+    <script src="~/Scripts/Product/product-controller.js"></script>
+}
+
+<h2>Product Listing</h2>
+
+<div id="body" ng-app="productModule">
+    <div ng-controller="productCtrl">
+        
+        <table>
+            <thead>
+                <tr>
+                    <th >ID</th>
+                    <th>Product</th>
+                    <th>Desctiption</th>                    
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="product in productDetails">
+                    <td>{{product.EmployeeId}}</td>
+                    <td>{{product.Name}} </td>
+                    <td>{{product.Description}}</td>                    
+                    
+                </tr>
+            </tbody>
+            
+        </table>
+       
+
+    </div>
+</div>

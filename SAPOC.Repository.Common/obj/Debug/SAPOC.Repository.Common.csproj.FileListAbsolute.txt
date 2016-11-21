@@ -1,0 +1,8 @@
+C:\Sudheshna\SAPOC.API\SAPOC.Repository.Common\bin\Debug\SAPOC.Repository.Common.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Repository.Common\bin\Debug\SAPOC.Repository.Common.pdb
+C:\Sudheshna\SAPOC.API\SAPOC.Repository.Common\obj\Debug\SAPOC.Repository.Common.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Repository.Common\obj\Debug\SAPOC.Repository.Common.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Repository.Common\bin\Debug\SAPOC.Repository.Common.dll
+E:\SA_POC\SAPOC.API\SAPOC.Repository.Common\bin\Debug\SAPOC.Repository.Common.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Repository.Common\obj\Debug\SAPOC.Repository.Common.dll
+E:\SA_POC\SAPOC.API\SAPOC.Repository.Common\obj\Debug\SAPOC.Repository.Common.pdb

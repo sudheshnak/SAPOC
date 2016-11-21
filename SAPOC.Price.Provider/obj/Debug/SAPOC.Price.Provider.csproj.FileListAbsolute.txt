@@ -1,0 +1,9 @@
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider\bin\Debug\SAPOC.Price.Provider.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider\bin\Debug\SAPOC.Price.Provider.pdb
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\bin\Debug\SAPOC.Price.Provider.dll
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\bin\Debug\SAPOC.Price.Provider.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.csprojResolveAssemblyReference.cache
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.dll
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.pdb

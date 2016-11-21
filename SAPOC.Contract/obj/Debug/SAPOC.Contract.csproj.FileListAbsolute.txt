@@ -1,0 +1,8 @@
+C:\Sudheshna\SAPOC.API\SAPOC.Contract\bin\Debug\SAPOC.Contract.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Contract\bin\Debug\SAPOC.Contract.pdb
+C:\Sudheshna\SAPOC.API\SAPOC.Contract\obj\Debug\SAPOC.Contract.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Contract\obj\Debug\SAPOC.Contract.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Contract\bin\Debug\SAPOC.Contract.dll
+E:\SA_POC\SAPOC.API\SAPOC.Contract\bin\Debug\SAPOC.Contract.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Contract\obj\Debug\SAPOC.Contract.dll
+E:\SA_POC\SAPOC.API\SAPOC.Contract\obj\Debug\SAPOC.Contract.pdb

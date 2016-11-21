@@ -1,0 +1,9 @@
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Test.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Test.pdb
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.dll
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.pdb
+C:\Sudheshna\SAPOC.API\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.csprojResolveAssemblyReference.cache
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Test.dll
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Test.pdb
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.dll
+E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.pdb
