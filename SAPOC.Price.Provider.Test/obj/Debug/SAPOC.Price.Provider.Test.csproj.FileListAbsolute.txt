@@ -13,3 +13,4 @@ E:\SAPOC\SAPOC.Price.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools
 E:\SAPOC\SAPOC.Price.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 E:\SAPOC\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.dll
 E:\SAPOC\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.pdb
+E:\SAPOC\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.csprojResolveAssemblyReference.cache

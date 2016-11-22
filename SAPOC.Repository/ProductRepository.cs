@@ -14,7 +14,6 @@ namespace SAPOC.Repository
         public ProductRepository(ProductDbContext productDbContext)
         {
             _productDbContext = productDbContext;
-            
         }
 
         public List<Product> GetAllProduct()

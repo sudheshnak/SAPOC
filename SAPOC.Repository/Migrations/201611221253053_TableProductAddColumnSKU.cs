@@ -1,0 +1,18 @@
+namespace SAPOC.Repository.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class TableProductAddColumnSKU : DbMigration
+    {
+        public override void Up()
+        {
+            AddColumn("dbo.Products", "SKU", c => c.String());
+        }
+        
+        public override void Down()
+        {
+            DropColumn("dbo.Products", "SKU");
+        }
+    }
+}

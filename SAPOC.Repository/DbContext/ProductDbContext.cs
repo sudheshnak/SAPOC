@@ -10,14 +10,17 @@ namespace SAPOC.Repository.Context
 {
     public class ProductDbContext : DbContext
     {
-//jj
-
         public ProductDbContext(string connectionStringOrName)
-            : base(connectionStringOrName)
+            : base(string.Format("name={0}", connectionStringOrName))
         {
-            Database.SetInitializer(new CreateDatabaseIfNotExists<ProductDbContext>());
+            Database.CreateIfNotExists();
         }
 
+        public ProductDbContext()
+           : base("name=SAPOCConnection")
+        {
+            
+        }
 
         public DbSet<Product> Products { get; set; }
 

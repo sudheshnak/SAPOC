@@ -1,0 +1,9 @@
+diff a/SAPOC.UI/Views/Shared/_Layout.cshtml b/SAPOC.UI/Views/Shared/_Layout.cshtml	(rejected hunks)
+@@ -8,6 +8,7 @@
+     <script>
+     var serviceEndpoint, productServiceUrl;
+     $(document).ready(function () {
++        serviceEndpoint = "@System.Configuration.ConfigurationManager.AppSettings["ServiceEndpoint"]";
+         productServiceUrl = serviceEndpoint + "product";
+     });
+     </script>

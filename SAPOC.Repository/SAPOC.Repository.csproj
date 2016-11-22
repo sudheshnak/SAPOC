@@ -47,6 +47,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbContext\ProductDbContext.cs" />
+    <Compile Include="Migrations\201611221250262_InitialCreate.cs" />
+    <Compile Include="Migrations\201611221250262_InitialCreate.Designer.cs">
+      <DependentUpon>201611221250262_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201611221253053_TableProductAddColumnSKU.cs" />
+    <Compile Include="Migrations\201611221253053_TableProductAddColumnSKU.Designer.cs">
+      <DependentUpon>201611221253053_TableProductAddColumnSKU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ProductRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,6 +68,14 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201611221250262_InitialCreate.resx">
+      <DependentUpon>201611221250262_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201611221253053_TableProductAddColumnSKU.resx">
+      <DependentUpon>201611221253053_TableProductAddColumnSKU.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

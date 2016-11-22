@@ -13,4 +13,3 @@ E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityToo
 E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 E:\SAPOC\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.dll
 E:\SAPOC\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.pdb
-E:\SAPOC\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.csprojResolveAssemblyReference.cache
