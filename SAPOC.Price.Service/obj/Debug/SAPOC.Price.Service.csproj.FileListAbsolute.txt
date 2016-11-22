@@ -25,3 +25,17 @@ E:\SA_POC\SAPOC.API\SAPOC.Price.Service\bin\System.Web.Http.WebHost.xml
 E:\SA_POC\SAPOC.API\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.csprojResolveAssemblyReference.cache
 E:\SA_POC\SAPOC.API\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.dll
 E:\SA_POC\SAPOC.API\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.pdb
+E:\SAPOC\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.csprojResolveAssemblyReference.cache
+E:\SAPOC\SAPOC.Price.Service\bin\SAPOC.Price.Service.dll.config
+E:\SAPOC\SAPOC.Price.Service\bin\SAPOC.Price.Service.dll
+E:\SAPOC\SAPOC.Price.Service\bin\SAPOC.Price.Service.pdb
+E:\SAPOC\SAPOC.Price.Service\bin\Newtonsoft.Json.dll
+E:\SAPOC\SAPOC.Price.Service\bin\System.Net.Http.Formatting.dll
+E:\SAPOC\SAPOC.Price.Service\bin\System.Web.Http.dll
+E:\SAPOC\SAPOC.Price.Service\bin\System.Web.Http.WebHost.dll
+E:\SAPOC\SAPOC.Price.Service\bin\Newtonsoft.Json.xml
+E:\SAPOC\SAPOC.Price.Service\bin\System.Net.Http.Formatting.xml
+E:\SAPOC\SAPOC.Price.Service\bin\System.Web.Http.xml
+E:\SAPOC\SAPOC.Price.Service\bin\System.Web.Http.WebHost.xml
+E:\SAPOC\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.dll
+E:\SAPOC\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.pdb
