@@ -1,9 +1,8 @@
 ﻿var app = angular.module('productModule', []);
-
 app.factory('ProductService', function ($http) {
     var fact = {};
     fact.GetAllEmployees = function () {
-        return $http.get('http://localhost:2525/api/product');
+        return $http.get(productServiceUrl);
     }
     return fact;
 });

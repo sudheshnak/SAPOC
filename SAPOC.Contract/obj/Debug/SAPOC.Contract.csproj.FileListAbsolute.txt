@@ -6,3 +6,7 @@ E:\SA_POC\SAPOC.API\SAPOC.Contract\bin\Debug\SAPOC.Contract.dll
 E:\SA_POC\SAPOC.API\SAPOC.Contract\bin\Debug\SAPOC.Contract.pdb
 E:\SA_POC\SAPOC.API\SAPOC.Contract\obj\Debug\SAPOC.Contract.dll
 E:\SA_POC\SAPOC.API\SAPOC.Contract\obj\Debug\SAPOC.Contract.pdb
+E:\SAPOC\SAPOC.Contract\bin\Debug\SAPOC.Contract.dll
+E:\SAPOC\SAPOC.Contract\bin\Debug\SAPOC.Contract.pdb
+E:\SAPOC\SAPOC.Contract\obj\Debug\SAPOC.Contract.dll
+E:\SAPOC\SAPOC.Contract\obj\Debug\SAPOC.Contract.pdb

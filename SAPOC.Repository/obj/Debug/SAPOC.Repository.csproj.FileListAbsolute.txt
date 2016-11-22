@@ -22,3 +22,15 @@ E:\SA_POC\SAPOC.API\SAPOC.Repository\bin\Debug\EntityFramework.SqlServer.xml
 E:\SA_POC\SAPOC.API\SAPOC.Repository\obj\Debug\SAPOC.Repository.csprojResolveAssemblyReference.cache
 E:\SA_POC\SAPOC.API\SAPOC.Repository\obj\Debug\SAPOC.Repository.dll
 E:\SA_POC\SAPOC.API\SAPOC.Repository\obj\Debug\SAPOC.Repository.pdb
+E:\SAPOC\SAPOC.Repository\obj\Debug\SAPOC.Repository.csprojResolveAssemblyReference.cache
+E:\SAPOC\SAPOC.Repository\bin\Debug\SAPOC.Repository.dll.config
+E:\SAPOC\SAPOC.Repository\bin\Debug\SAPOC.Repository.dll
+E:\SAPOC\SAPOC.Repository\bin\Debug\SAPOC.Repository.pdb
+E:\SAPOC\SAPOC.Repository\bin\Debug\EntityFramework.dll
+E:\SAPOC\SAPOC.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\SAPOC\SAPOC.Repository\bin\Debug\SAPOC.Repository.Common.dll
+E:\SAPOC\SAPOC.Repository\bin\Debug\SAPOC.Repository.Common.pdb
+E:\SAPOC\SAPOC.Repository\bin\Debug\EntityFramework.xml
+E:\SAPOC\SAPOC.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\SAPOC\SAPOC.Repository\obj\Debug\SAPOC.Repository.dll
+E:\SAPOC\SAPOC.Repository\obj\Debug\SAPOC.Repository.pdb

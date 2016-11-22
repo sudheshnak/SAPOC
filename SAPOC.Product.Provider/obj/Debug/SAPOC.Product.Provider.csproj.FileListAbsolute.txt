@@ -16,3 +16,12 @@ E:\SA_POC\SAPOC.API\SAPOC.Product.Provider\bin\Debug\SAPOC.Repository.Common.pdb
 E:\SA_POC\SAPOC.API\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.csprojResolveAssemblyReference.cache
 E:\SA_POC\SAPOC.API\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.dll
 E:\SA_POC\SAPOC.API\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.pdb
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\SAPOC.Product.Provider.dll
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\SAPOC.Product.Provider.pdb
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\SAPOC.Contract.dll
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\SAPOC.Repository.Common.dll
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\SAPOC.Contract.pdb
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\SAPOC.Repository.Common.pdb
+E:\SAPOC\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.csprojResolveAssemblyReference.cache
+E:\SAPOC\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.dll
+E:\SAPOC\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.pdb

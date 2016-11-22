@@ -7,3 +7,8 @@ E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\bin\Debug\SAPOC.Price.Provider.pdb
 E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.csprojResolveAssemblyReference.cache
 E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.dll
 E:\SA_POC\SAPOC.API\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.pdb
+E:\SAPOC\SAPOC.Price.Provider\bin\Debug\SAPOC.Price.Provider.dll
+E:\SAPOC\SAPOC.Price.Provider\bin\Debug\SAPOC.Price.Provider.pdb
+E:\SAPOC\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.dll
+E:\SAPOC\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.pdb
+E:\SAPOC\SAPOC.Price.Provider\obj\Debug\SAPOC.Price.Provider.csprojResolveAssemblyReference.cache

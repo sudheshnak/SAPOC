@@ -7,3 +7,9 @@ E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Tes
 E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Test.pdb
 E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.dll
 E:\SA_POC\SAPOC.API\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.pdb
+E:\SAPOC\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Test.dll
+E:\SAPOC\SAPOC.Price.Provider.Test\bin\Debug\SAPOC.Price.Provider.Test.pdb
+E:\SAPOC\SAPOC.Price.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SAPOC\SAPOC.Price.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\SAPOC\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.dll
+E:\SAPOC\SAPOC.Price.Provider.Test\obj\Debug\SAPOC.Price.Provider.Test.pdb
