@@ -37,3 +37,7 @@ E:\SAPOC\SAPOC.Repository\obj\Debug\SAPOC.Repository.pdb
 E:\SAPOC\SAPOC.Repository\obj\Debug\SAPOC.Repository.Migrations.InitialCreate.resources
 E:\SAPOC\SAPOC.Repository\obj\Debug\SAPOC.Repository.csproj.GenerateResource.Cache
 E:\SAPOC\SAPOC.Repository\obj\Debug\SAPOC.Repository.Migrations.TableProductAddColumnSKU.resources
+E:\SAPOC\SAPOC.Repository\bin\Debug\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.Repository\bin\Debug\StyleCop.dll
+E:\SAPOC\SAPOC.Repository\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Repository\bin\Debug\Microsoft.Build.Utilities.v3.5.xml

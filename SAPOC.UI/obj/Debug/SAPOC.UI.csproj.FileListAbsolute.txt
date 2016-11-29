@@ -45,7 +45,6 @@ E:\SA_POC\SAPOC.API\SAPOC.UI\bin\SAPOC.Product.Provider.dll
 E:\SA_POC\SAPOC.API\SAPOC.UI\bin\SAPOC.Price.Provider.pdb
 E:\SA_POC\SAPOC.API\SAPOC.UI\bin\SAPOC.Product.Provider.pdb
 E:\SAPOC\SAPOC.UI\obj\Debug\SAPOC.UI.csprojResolveAssemblyReference.cache
-E:\SAPOC\SAPOC.UI\bin\SAPOC.UI.dll.config
 E:\SAPOC\SAPOC.UI\bin\SAPOC.UI.dll
 E:\SAPOC\SAPOC.UI\bin\SAPOC.UI.pdb
 E:\SAPOC\SAPOC.UI\bin\Antlr3.Runtime.dll
@@ -63,9 +62,6 @@ E:\SAPOC\SAPOC.UI\bin\SAPOC.Price.Provider.dll
 E:\SAPOC\SAPOC.UI\bin\SAPOC.Product.Provider.dll
 E:\SAPOC\SAPOC.UI\bin\SAPOC.Repository.Common.dll
 E:\SAPOC\SAPOC.UI\bin\SAPOC.Repository.dll
-E:\SAPOC\SAPOC.UI\bin\System.Net.Http.Formatting.dll
-E:\SAPOC\SAPOC.UI\bin\System.Web.Http.dll
-E:\SAPOC\SAPOC.UI\bin\System.Web.Http.WebHost.dll
 E:\SAPOC\SAPOC.UI\bin\System.Web.Mvc.dll
 E:\SAPOC\SAPOC.UI\bin\System.Web.Optimization.dll
 E:\SAPOC\SAPOC.UI\bin\System.Web.Providers.dll
@@ -87,9 +83,6 @@ E:\SAPOC\SAPOC.UI\bin\Microsoft.Practices.Unity.xml
 E:\SAPOC\SAPOC.UI\bin\Microsoft.Practices.Unity.Configuration.xml
 E:\SAPOC\SAPOC.UI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
 E:\SAPOC\SAPOC.UI\bin\Newtonsoft.Json.xml
-E:\SAPOC\SAPOC.UI\bin\System.Net.Http.Formatting.xml
-E:\SAPOC\SAPOC.UI\bin\System.Web.Http.xml
-E:\SAPOC\SAPOC.UI\bin\System.Web.Http.WebHost.xml
 E:\SAPOC\SAPOC.UI\bin\System.Web.Mvc.xml
 E:\SAPOC\SAPOC.UI\bin\System.Web.Razor.xml
 E:\SAPOC\SAPOC.UI\bin\System.Web.WebPages.xml
@@ -97,3 +90,17 @@ E:\SAPOC\SAPOC.UI\bin\System.Web.WebPages.Deployment.xml
 E:\SAPOC\SAPOC.UI\bin\System.Web.WebPages.Razor.xml
 E:\SAPOC\SAPOC.UI\obj\Debug\SAPOC.UI.dll
 E:\SAPOC\SAPOC.UI\obj\Debug\SAPOC.UI.pdb
+E:\SAPOC\SAPOC.UI\bin\Elmah.dll
+E:\SAPOC\SAPOC.UI\bin\Elmah.Mvc.dll
+E:\SAPOC\SAPOC.UI\bin\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.UI\bin\StyleCop.dll
+E:\SAPOC\SAPOC.UI\bin\SAPOC.UI.dll.config
+E:\SAPOC\SAPOC.UI\bin\System.Net.Http.Formatting.dll
+E:\SAPOC\SAPOC.UI\bin\System.Web.Http.dll
+E:\SAPOC\SAPOC.UI\bin\System.Web.Http.WebHost.dll
+E:\SAPOC\SAPOC.UI\bin\System.Data.SqlServerCe.dll
+E:\SAPOC\SAPOC.UI\bin\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.UI\bin\System.Net.Http.Formatting.xml
+E:\SAPOC\SAPOC.UI\bin\System.Web.Http.xml
+E:\SAPOC\SAPOC.UI\bin\System.Web.Http.WebHost.xml
+E:\SAPOC\SAPOC.UI\bin\Microsoft.Build.Utilities.v3.5.xml

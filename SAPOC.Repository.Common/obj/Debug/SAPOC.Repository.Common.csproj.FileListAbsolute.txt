@@ -10,3 +10,8 @@ E:\SAPOC\SAPOC.Repository.Common\bin\Debug\SAPOC.Repository.Common.dll
 E:\SAPOC\SAPOC.Repository.Common\bin\Debug\SAPOC.Repository.Common.pdb
 E:\SAPOC\SAPOC.Repository.Common\obj\Debug\SAPOC.Repository.Common.dll
 E:\SAPOC\SAPOC.Repository.Common\obj\Debug\SAPOC.Repository.Common.pdb
+E:\SAPOC\SAPOC.Repository.Common\bin\Debug\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.Repository.Common\bin\Debug\StyleCop.dll
+E:\SAPOC\SAPOC.Repository.Common\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Repository.Common\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+E:\SAPOC\SAPOC.Repository.Common\obj\Debug\SAPOC.Repository.Common.csprojResolveAssemblyReference.cache

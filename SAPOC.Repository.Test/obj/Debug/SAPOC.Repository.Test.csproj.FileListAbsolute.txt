@@ -14,3 +14,7 @@ E:\SAPOC\SAPOC.Repository.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.Uni
 E:\SAPOC\SAPOC.Repository.Test\obj\Debug\SAPOC.Repository.Test.dll
 E:\SAPOC\SAPOC.Repository.Test\obj\Debug\SAPOC.Repository.Test.pdb
 E:\SAPOC\SAPOC.Repository.Test\obj\Debug\SAPOC.Repository.Test.csprojResolveAssemblyReference.cache
+E:\SAPOC\SAPOC.Repository.Test\bin\Debug\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.Repository.Test\bin\Debug\StyleCop.dll
+E:\SAPOC\SAPOC.Repository.Test\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Repository.Test\bin\Debug\Microsoft.Build.Utilities.v3.5.xml

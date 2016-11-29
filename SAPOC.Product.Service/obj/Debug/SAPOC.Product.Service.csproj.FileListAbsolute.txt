@@ -64,7 +64,6 @@ E:\SA_POC\SAPOC.API\SAPOC.Product.Service\obj\Debug\SAPOC.Product.Service.csproj
 E:\SA_POC\SAPOC.API\SAPOC.Product.Service\obj\Debug\SAPOC.Product.Service.dll
 E:\SA_POC\SAPOC.API\SAPOC.Product.Service\obj\Debug\SAPOC.Product.Service.pdb
 E:\SAPOC\SAPOC.Product.Service\obj\Debug\SAPOC.Product.Service.csprojResolveAssemblyReference.cache
-E:\SAPOC\SAPOC.Product.Service\bin\SAPOC.Product.Service.dll.config
 E:\SAPOC\SAPOC.Product.Service\bin\SAPOC.Product.Service.dll
 E:\SAPOC\SAPOC.Product.Service\bin\SAPOC.Product.Service.pdb
 E:\SAPOC\SAPOC.Product.Service\bin\Microsoft.Practices.ServiceLocation.dll
@@ -96,3 +95,8 @@ E:\SAPOC\SAPOC.Product.Service\bin\System.Web.Http.WebHost.xml
 E:\SAPOC\SAPOC.Product.Service\bin\EntityFramework.xml
 E:\SAPOC\SAPOC.Product.Service\obj\Debug\SAPOC.Product.Service.dll
 E:\SAPOC\SAPOC.Product.Service\obj\Debug\SAPOC.Product.Service.pdb
+E:\SAPOC\SAPOC.Product.Service\bin\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.Product.Service\bin\StyleCop.dll
+E:\SAPOC\SAPOC.Product.Service\bin\SAPOC.Product.Service.dll.config
+E:\SAPOC\SAPOC.Product.Service\bin\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Product.Service\bin\Microsoft.Build.Utilities.v3.5.xml

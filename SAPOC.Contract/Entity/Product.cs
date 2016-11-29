@@ -1,5 +1,4 @@
-﻿
-namespace SAPOC.Contract.Entity
+﻿namespace SAPOC.Contract.Entity
 {
     public class Product
     {

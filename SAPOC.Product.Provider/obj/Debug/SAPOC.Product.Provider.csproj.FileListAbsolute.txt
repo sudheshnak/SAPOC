@@ -25,3 +25,7 @@ E:\SAPOC\SAPOC.Product.Provider\bin\Debug\SAPOC.Repository.Common.pdb
 E:\SAPOC\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.csprojResolveAssemblyReference.cache
 E:\SAPOC\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.dll
 E:\SAPOC\SAPOC.Product.Provider\obj\Debug\SAPOC.Product.Provider.pdb
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\StyleCop.dll
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Product.Provider\bin\Debug\Microsoft.Build.Utilities.v3.5.xml

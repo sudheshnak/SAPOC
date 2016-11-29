@@ -19,7 +19,7 @@ namespace SAPOC.Repository
 
         public List<Product> GetAllProduct()
         {
-            
+           
             List<Product> products = new List<Product>();
             products = _productDbContext.Products.ToList();
             //Product p1 = new Product();

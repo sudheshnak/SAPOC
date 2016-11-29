@@ -13,3 +13,7 @@ E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityToo
 E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 E:\SAPOC\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.dll
 E:\SAPOC\SAPOC.Product.Provider.Test\obj\Debug\SAPOC.Product.Provider.Test.pdb
+E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\StyleCop.dll
+E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Product.Provider.Test\bin\Debug\Microsoft.Build.Utilities.v3.5.xml

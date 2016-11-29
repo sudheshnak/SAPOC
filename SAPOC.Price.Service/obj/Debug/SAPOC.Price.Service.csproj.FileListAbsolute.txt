@@ -39,3 +39,7 @@ E:\SAPOC\SAPOC.Price.Service\bin\System.Web.Http.xml
 E:\SAPOC\SAPOC.Price.Service\bin\System.Web.Http.WebHost.xml
 E:\SAPOC\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.dll
 E:\SAPOC\SAPOC.Price.Service\obj\Debug\SAPOC.Price.Service.pdb
+E:\SAPOC\SAPOC.Price.Service\bin\StyleCop.CSharp.dll
+E:\SAPOC\SAPOC.Price.Service\bin\StyleCop.dll
+E:\SAPOC\SAPOC.Price.Service\bin\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Price.Service\bin\Microsoft.Build.Utilities.v3.5.xml
