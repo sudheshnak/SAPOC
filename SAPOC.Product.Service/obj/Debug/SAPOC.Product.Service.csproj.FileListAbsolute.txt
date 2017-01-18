@@ -98,5 +98,7 @@ E:\SAPOC\SAPOC.Product.Service\obj\Debug\SAPOC.Product.Service.pdb
 E:\SAPOC\SAPOC.Product.Service\bin\StyleCop.CSharp.dll
 E:\SAPOC\SAPOC.Product.Service\bin\StyleCop.dll
 E:\SAPOC\SAPOC.Product.Service\bin\SAPOC.Product.Service.dll.config
+E:\SAPOC\SAPOC.Product.Service\bin\StackExchange.Redis.dll
 E:\SAPOC\SAPOC.Product.Service\bin\Microsoft.Build.Utilities.v3.5.dll
+E:\SAPOC\SAPOC.Product.Service\bin\StackExchange.Redis.xml
 E:\SAPOC\SAPOC.Product.Service\bin\Microsoft.Build.Utilities.v3.5.xml

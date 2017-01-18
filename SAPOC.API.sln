@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Product.Provider.Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.UI", "SAPOC.UI\SAPOC.UI.csproj", "{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPOC.Cache", "SAPOC.Cache\SAPOC.Cache.csproj", "{4FA3B40A-B537-4EC7-B49E-AA8A7D1316EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CFD19CE-D55C-49FC-9682-72EEA88ECEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA3B40A-B537-4EC7-B49E-AA8A7D1316EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA3B40A-B537-4EC7-B49E-AA8A7D1316EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA3B40A-B537-4EC7-B49E-AA8A7D1316EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA3B40A-B537-4EC7-B49E-AA8A7D1316EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

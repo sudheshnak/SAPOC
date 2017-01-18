@@ -54,6 +54,10 @@
     <Reference Include="Microsoft.Practices.Unity.RegistrationByConvention">
       <HintPath>..\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.RegistrationByConvention.dll</HintPath>
     </Reference>
+    <Reference Include="StackExchange.Redis, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\StackExchange.Redis.1.2.0\lib\net45\StackExchange.Redis.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="StyleCop, Version=4.7.1000.0, Culture=neutral, PublicKeyToken=f904653c63bc2738, processorArchitecture=MSIL">
       <HintPath>..\packages\StyleCop.4.7.55\lib\net35\StyleCop.dll</HintPath>
       <Private>True</Private>
@@ -62,6 +66,7 @@
       <HintPath>..\packages\StyleCop.4.7.55\lib\net35\StyleCop.CSharp.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.IO.Compression" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -121,6 +126,10 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SAPOC.Cache\SAPOC.Cache.csproj">
+      <Project>{4fa3b40a-b537-4ec7-b49e-aa8a7d1316ea}</Project>
+      <Name>SAPOC.Cache</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SAPOC.Contract\SAPOC.Contract.csproj">
       <Project>{5837130e-fa80-4f2e-bd0f-88ecf7e24ed7}</Project>
       <Name>SAPOC.Contract</Name>

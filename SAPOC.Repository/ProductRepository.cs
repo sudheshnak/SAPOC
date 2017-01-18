@@ -46,7 +46,8 @@ namespace SAPOC.Repository
 
         public Product GetProductById(int id)
         {
-            throw new NotImplementedException();
+            Product product = _productDbContext.Products.SingleOrDefault(x => x.ProductId == id);
+            return product;
         }
     }
 }

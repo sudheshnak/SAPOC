@@ -14,4 +14,3 @@ E:\SAPOC\SAPOC.Contract\bin\Debug\StyleCop.CSharp.dll
 E:\SAPOC\SAPOC.Contract\bin\Debug\StyleCop.dll
 E:\SAPOC\SAPOC.Contract\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
 E:\SAPOC\SAPOC.Contract\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
-E:\SAPOC\SAPOC.Contract\obj\Debug\SAPOC.Contract.csprojResolveAssemblyReference.cache
